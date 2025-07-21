@@ -1,0 +1,57 @@
+C:\Users\janid\source\repos\TechFix\TechFix\bin\Debug\TechFix.exe.config
+C:\Users\janid\source\repos\TechFix\TechFix\bin\Debug\TechFix.exe
+C:\Users\janid\source\repos\TechFix\TechFix\bin\Debug\TechFix.pdb
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.csproj.AssemblyReference.cache
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.Properties.Resources.resources
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.csproj.GenerateResource.cache
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.csproj.CoreCompileInputs.cache
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.exe
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.pdb
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.Products.resources
+C:\Users\janid\source\repos\TechFix\TechFix\bin\Debug\System.Data.SqlClient.dll
+C:\Users\janid\source\repos\TechFix\TechFix\bin\Debug\System.Data.SqlClient.xml
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.csproj.Up2Date
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.Customers.resources
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.Orders.resources
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.Inventry.resources
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.User.resources
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.Login.resources
+C:\Users\janid\source\repos\TechFix\TechFix\obj\Debug\TechFix.Main.resources
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\TechFix.exe.config
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\TechFix.exe
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\TechFix.pdb
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\System.Data.SqlClient.dll
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\System.Data.SqlClient.xml
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.csproj.AssemblyReference.cache
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Customers.resources
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Login.resources
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Main.resources
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Inventry.resources
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Orders.resources
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Products.resources
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Properties.Resources.resources
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.User.resources
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.csproj.GenerateResource.cache
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.csproj.CoreCompileInputs.cache
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.csproj.Up2Date
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.exe
+C:\Users\janid\OneDrive\Desktop\SOC Assign 3\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.pdb
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\TechFix.exe.config
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\TechFix.exe
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\TechFix.pdb
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\System.Data.SqlClient.dll
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\bin\Debug\System.Data.SqlClient.xml
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.csproj.AssemblyReference.cache
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Customers.resources
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Login.resources
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Main.resources
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Inventry.resources
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Orders.resources
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Products.resources
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.Properties.Resources.resources
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.User.resources
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.csproj.GenerateResource.cache
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.csproj.CoreCompileInputs.cache
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.csproj.Up2Date
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.exe
+C:\Users\janid\OneDrive\Desktop\Tech Fix Computer Shop\Tech Fix Computer Shop\TechFix\TechFix\obj\Debug\TechFix.pdb
